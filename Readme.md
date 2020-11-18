@@ -10,20 +10,20 @@
 1. Discordのユーザー設定からDMを許可する  
 ![DM_enable](./img/DM_enable.png)  
 
-## AmangUsCaptureのインストール(ゲームのホストユーザーのみ。初回のみ)
-DiscordとAmangUsを連携するアプリケーション  
-1. [AmangUsCapture](https://github.com/denverquane/amonguscapture/releases/tag/2.4.4)にアクセス  
-1. AmangUsCapture.exeを任意の場所にダウンロード  
+## AmongUsCaptureのインストール(ゲームのホストユーザーのみ。初回のみ)
+DiscordとAmongUsを連携するアプリケーション  
+1. [AmongUsCapture](https://github.com/denverquane/amonguscapture/releases/tag/2.4.4)にアクセス  
+1. AmongUsCapture.exeを任意の場所にダウンロード  
 ![capture](./img/capture.png)  
 1. 実行してインストール(Windowsの警告が出るので許可する)  
-**インストール後はAmangUsCapture.exeの場所を移動させない**  
+**インストール後はAmongUsCapture.exeの場所を移動させない**  
 ![capture_install1](./img/capture_install1.png)  
 ![capture_install2](./img/capture_install2.png)  
 
 ## 使用方法
 ### ホストの操作
-AmangUsCaptureが起動している場合は終了させておく  
-1. AmangUsで部屋を作成する  
+AmongUsCaptureが起動している場合は終了させておく  
+1. AmongUsで部屋を作成する  
 1. Discordのチャットで`.au new`を入力する  
 ![au_new](./img/au_new.png)  
 Main Menuが表示される  
@@ -31,7 +31,7 @@ Main Menuが表示される
 1. AutoMuteUsからDMが届くのでリンクをクリックする    
 ![DM](./img/DM.png)  
 ![DM_link](./img/DM_link.png)  
-1. AmangUsCaptureが実行され、Main Menuの表示が変わる  
+1. AmongUsCaptureが実行され、Main Menuの表示が変わる  
 自分のキャラクターの色のアイコンをクリックする  
 ![good_job](./img/good_job.png)  
 1. Unlinkedが自分の名前になれば成功  
@@ -54,4 +54,4 @@ Main Menuが表示される
 
 ## 終了方法
 1. Discordのチャットで`.au end`を入力  
-1. AmangUsCaptureを手動で終了させる  
+1. AmongUsCaptureを手動で終了させる  
